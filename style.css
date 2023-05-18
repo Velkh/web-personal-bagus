@@ -1,0 +1,54 @@
+header{
+    background-color: gray;
+    color: white;
+    padding: 10px;
+}
+
+nav{ 
+    background-color: black;
+    overflow: hidden;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav li{
+    float: left;
+}
+
+nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+
+nav li a:hover{
+    background-color:red ;
+    font-style: italic;
+}
+
+img {
+    width: 250;
+    height: 250;
+    border: 3px solid;
+    float: left;
+    margin-left: 22;
+    margin-right: 22;
+}
+
+h2{
+    font-size: 28;
+    font-style: italic;
+}
+
+.aboutMe1{
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
